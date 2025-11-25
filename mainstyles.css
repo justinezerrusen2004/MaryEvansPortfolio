@@ -225,7 +225,7 @@ body {
 .footercontent {
     display:flex;
     width: 90%;
-    max-width: 1140px;
+    max-width: 1000px;
     margin: 0 auto;
     gap: 40px;
 }
