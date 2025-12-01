@@ -9,7 +9,7 @@ body {
 .header-container {
     display: flex; 
     width: 90%; 
-    max-width: 1500px;
+    max-width: 1300px;
     margin: 0 auto;
     padding: 250px 0 240px 0;
     align-items: flex-start; 
